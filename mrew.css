@@ -1,0 +1,189 @@
+.logo{
+    display: flex;
+    padding-left: 30px;
+    height: 165px;
+}
+.logoheading {
+    width: 70%;
+    color: #de1c85;
+    font-size: 20px;
+    padding-left: 30px;
+    font-weight: bold;
+    line-height: 35px;
+}
+.navigation_bar{
+    padding-left: 10px;
+    
+}
+.code{
+    padding-top:40px;
+}
+ol{
+    margin-top: -17px;
+    color: white;
+    list-style-type: none;
+}
+li{
+    margin-left: 50px;
+    display: inline;
+}
+.video{
+    height: 460px; 
+}
+.video img{
+    width: 1240px;
+}
+.line{
+    margin-top: -15px;
+    background-color: black;
+    height: 0.1px;
+}
+.description{
+    margin-top: 20px;
+    height: 500px;
+    display: flex;
+}
+.bottom{
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    flex-direction: column;
+}
+.d1{
+    background-color: rgb(228,225,225);
+    padding-left: 10px;
+    height: 750px;
+    width:25%;
+}
+.link a:hover{
+    color: red;
+    margin-left: 10px;
+}
+.paragraphs{
+   
+    height: 600px;
+    width:50%; 
+    
+    border: 5px solid black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.d2{
+    background-color: rgb(228,225,225);
+    height: 650px;
+    width:18.5%;
+}
+.nba{
+    margin-left: 13px;
+}
+.fb{
+    margin-left: 13px; 
+}
+.mid{
+    margin-left: 13px; 
+}
+.admission{
+    margin-left: 13px;
+}
+.fee{
+    margin-left: 13px;
+}
+.br1{
+    overflow: scroll;
+    margin-top: -10px;
+    height: 220px;
+    width: 250px;
+    padding-left: 10px;
+    background-color: rgb(228,225,225);
+}
+.link{
+    color: black;
+}
+h2{
+    color: white;
+    background-color: rgb(234,106,159);
+    padding-left: 5px;
+}
+.bottomright{
+    margin-top: -13px;
+    box-shadow: 10px;
+}
+.br2{
+    overflow: scroll;
+    height: 200px;
+    width: 250px;
+    padding-left: 10px;
+    background-color: rgb(228,225,225);
+    padding-top: -20px;
+}
+.options{
+    margin-top: 560px;
+    margin-left: 950px;
+    
+}
+.principal{
+    margin-bottom: 5px;
+}
+.faculty{
+    margin-bottom: 5px;
+}
+.hod{
+    margin-bottom: 5px;
+}
+.student{
+    margin-bottom: 5px;
+}
+.online{
+    margin-bottom: 5px;
+}
+.images{
+    padding-left: 80px;
+}
+.bottombox{
+    margin-top: 15px;
+    height: 120px;
+    background-color: rgb(35,39,44);
+}
+a{
+    text-decoration: none;
+
+}
+.bb2{
+    display: flex;
+    
+}
+.part1{
+    margin-top: -20px;
+}
+.part2{
+    /* color: white; */
+    display: flex;
+    margin-left: 75px;
+    padding-top: -15px;
+    /* padding-left: 20px; */
+    justify-content: space-evenly;
+}
+.part2 a{
+    font-size: 13px;
+}
+.part2 a:hover{
+    color: red;
+}
+.part2 p{
+    margin-top: -1px;
+}
+.freewebsite{
+    margin-top: -20px;
+    padding-top: 10px;
+    padding-left: 1050px;
+}
+.freewebsite a{
+    color: white;
+}
+.freewebsite a:hover{
+    color: red;
+}
+.vline{
+    margin-left: 20px;
+    margin-right: 20px;
+}
